@@ -97,5 +97,5 @@ All evaluations are performed on held-out test splits with fixed random seed for
 
 ## 8. References (literature-indexed anchors)
 
-- Zhang JH, Chung TDY, Oldenburg KR. A simple statistical parameter for use in evaluation and validation of high throughput screening assays. *J Biomol Screen* (1999). PMID: 10838414.
-- Cox J, et al. Accurate proteome-wide label-free quantification by delayed normalization and maximal peptide ratio extraction (MaxLFQ). *Mol Cell Proteomics* (2014). PMCID: PMC4159666.
+- Zhang JH, Chung TDY, Oldenburg KR. A simple statistical parameter for use in evaluation and validation of high throughput screening assays. *J Biomol Screen* (1999). https://doi.org/10.1177/108705719900400206
+- Cox J, et al. Accurate proteome-wide label-free quantification by delayed normalization and maximal peptide ratio extraction (MaxLFQ). *Mol Cell Proteomics* (2014). https://doi.org/10.1074/mcp.M113.031591
