@@ -1,5 +1,4 @@
 # Model Card, Proof-of-Concept Models
-
 This repository contains multiple lightweight models trained on synthetic datasets to demonstrate discovery workflows. The models are intentionally simple, interpretable, and reproducible.
 
 ## 1. Models Included
